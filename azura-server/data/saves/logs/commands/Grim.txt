@@ -1,0 +1,8 @@
+[12/18/22 08:06AM] Grim used command ::find cryst | Player rights = DEVELOPER	
+[12/18/22 08:07AM] Grim used command ::item 6099 | Player rights = DEVELOPER	
+[12/18/22 08:07AM] Grim used command ::item 989 100 | Player rights = DEVELOPER	
+[12/18/22 08:11AM] Grim used command ::tele 2660 4045 | Player rights = DEVELOPER	
+[12/18/22 08:11AM] Grim used command ::tele 2657 4047 | Player rights = DEVELOPER	
+[12/18/22 08:11AM] Grim used command ::tele 2658 4047 | Player rights = DEVELOPER	
+[12/18/22 08:18AM] Grim used command ::tele 2651 4021 | Player rights = DEVELOPER	
+[12/18/22 08:23AM] Grim used command ::tele 2653 4021 | Player rights = DEVELOPER	

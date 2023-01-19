@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="azura-runelite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/azura-runelite/azura-runelite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

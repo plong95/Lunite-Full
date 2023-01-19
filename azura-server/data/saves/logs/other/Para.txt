@@ -1,0 +1,45 @@
+[11/15/22 09:34AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[11/15/22 09:56AM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[11/15/22 11:21AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[11/15/22 11:21AM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[11/15/22 11:22AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[11/15/22 11:22AM] HOME_BANK|2655,4015,0|Said: Kl	
+[11/15/22 11:22AM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[11/15/22 11:22AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[11/15/22 11:33AM] HOME_BANK|2659,4013,0|Said: U::interface 30330	
+[11/15/22 12:01PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 09:09PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 09:14PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 09:14PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 09:48PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 09:49PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 09:50PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 09:53PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 09:53PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 09:57PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 09:58PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:00PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:01PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:06PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:09PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:10PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:11PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:11PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:14PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:15PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:16PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:17PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:17PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:22PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:23PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:43PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:43PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/15/22 10:43PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/18/22 07:51AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/18/22 07:52AM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/18/22 07:52AM] Para just kicked Para!	
+[12/18/22 07:52AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/18/22 07:52AM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/18/22 08:05AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/18/22 08:33AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/18/22 09:36AM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	

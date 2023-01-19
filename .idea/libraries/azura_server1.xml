@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="azura-server1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/azura-server/azura-server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

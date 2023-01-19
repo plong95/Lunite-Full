@@ -1,0 +1,12 @@
+[4/7/22 06:41PM] Player picked up item: Slayer helm (T2), id: 23069, amount: 1, owner: Quiet	
+[4/7/22 06:44PM] Player picked up item: Aspect Tokens, id: 10835, amount: 10, owner: Quiet	
+[4/7/22 08:32PM] Player picked up item: Mystery Box, id: 6199, amount: 15, owner: Iron	
+[4/9/22 12:15PM] Player picked up item: PVM ticket, id: 5022, amount: 1, owner: Quiet	
+[4/9/22 12:25PM] Player picked up item: Raids [1] Key, id: 13591, amount: 2, owner: Quiet	
+[4/9/22 12:33PM] Player picked up item: Aspect Coins, id: 995, amount: 1073304, owner: Quiet	
+[4/9/22 12:33PM] Player picked up item: Infinite healing potion (T3), id: 23120, amount: 1, owner: Quiet	
+[4/9/22 12:49PM] Player picked up item: Aspect Coins, id: 995, amount: 3050338, owner: Quiet	
+[4/9/22 01:30PM] Player picked up item: PVM ticket, id: 5022, amount: 1, owner: Quiet	
+[4/10/22 12:53AM] Player picked up item: Raids [1] Key, id: 13591, amount: 5, owner: Mr. Morningstar	
+[4/10/22 12:55AM] Player picked up item: Aspect Coins, id: 995, amount: 2491409, owner: Quiet	
+[4/10/22 01:03AM] Player picked up item: Aspect Coins, id: 995, amount: 4006752, owner: Quiet	

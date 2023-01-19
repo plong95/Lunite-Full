@@ -1,0 +1,8 @@
+[11/15/22 08:24AM] <col=FF0066><img=2> [PLAYER-LAG]<col=6600FF> Test lag @red@314ms <col=6600FF>- amt: @red@2<col=6600FF> ID: @red@11<col=6600FF> - Message Nucky on Discord	
+[11/15/22 08:34AM] <col=FF0066><img=2> [PLAYER-LAG]<col=6600FF> Test created lag @red@297ms <col=6600FF>- Message Nucky on Discord	
+[11/15/22 11:21AM] <col=FF0066><img=2> [PLAYER-LAG]<col=6600FF> Tre lag @red@361ms <col=6600FF>- amt: @red@5<col=6600FF> ID: @red@185<col=6600FF> - Message Nucky on Discord	
+[11/15/22 11:27AM] <col=FF0066><img=2> [PLAYER-LAG]<col=6600FF> Para created lag @red@342ms <col=6600FF>- Message Nucky on Discord	
+[12/15/22 10:01PM] <col=FF0066><img=2> [PLAYER-LAG]<col=6600FF> Para lag @red@408ms <col=6600FF>- amt: @red@9<col=6600FF> ID: @red@121<col=6600FF> - Message Nucky on Discord	
+[12/18/22 07:52AM] <col=FF0066><img=2> [PUNISHMENTS]<col=6600FF> Para just kicked Para.	
+[12/18/22 08:06AM] <col=FF0066><img=2> [PUNISHMENTS]<col=6600FF> Para just moved Grim to them.	
+[12/18/22 08:33AM] <col=FF0066><img=2> [PLAYER-LAG]<col=6600FF> Para lag @red@261ms <col=6600FF>- amt: @red@4<col=6600FF> ID: @red@0<col=6600FF> - Message Nucky on Discord	

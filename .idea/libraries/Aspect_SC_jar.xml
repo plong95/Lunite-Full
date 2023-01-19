@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Aspect_SC_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Aspect_SC_jar/Aspect SC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Aspect_SC_jar/Aspect Beta.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
