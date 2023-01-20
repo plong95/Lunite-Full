@@ -6,3 +6,6 @@
 [12/18/22 07:52AM] <col=FF0066><img=2> [PUNISHMENTS]<col=6600FF> Para just kicked Para.	
 [12/18/22 08:06AM] <col=FF0066><img=2> [PUNISHMENTS]<col=6600FF> Para just moved Grim to them.	
 [12/18/22 08:33AM] <col=FF0066><img=2> [PLAYER-LAG]<col=6600FF> Para lag @red@261ms <col=6600FF>- amt: @red@4<col=6600FF> ID: @red@0<col=6600FF> - Message Nucky on Discord	
+[12/20/22 01:06PM] <col=FF0066><img=2> [PLAYER-LAG]<col=6600FF> Grim lag @red@435ms <col=6600FF>- amt: @red@10<col=6600FF> ID: @red@121<col=6600FF> - Message Nucky on Discord	
+[12/21/22 10:13AM] <col=FF0066><img=2> [A-C]<col=6600FF> Grim clicked same spot @red@50<col=6600FF> times (ITEM:23782 - Divine case)	
+[12/21/22 10:14AM] <col=FF0066><img=2> [A-C]<col=6600FF> Grim clicked same spot @red@50<col=6600FF> times (ITEM:23776 - Angelic case)	

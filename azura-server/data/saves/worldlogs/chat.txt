@@ -1,2 +1,3 @@
 [11/15/22 11:22AM]  [ Para ] HOME_BANK|2655,4015,0|Said: Kl	
 [11/15/22 11:33AM]  [ Para ] HOME_BANK|2659,4013,0|Said: U::interface 30330	
+[12/20/22 01:27PM]  [ Grim ] HOME_BANK|2649,4019,0|Said: Who gave u runelite :o	

@@ -15,14 +15,14 @@ public class Configuration {
 	public static final boolean DROPBOX_MODE = false;
 	public final static String CLIENT_NAME = "Referps";
 	public final static String CACHE_DIRECTORY_NAME = "referps-cache";
-	public static final String SETTINGS_DIRECTORY_NAME = "Paragon2_settings";
+	public static final String SETTINGS_DIRECTORY_NAME = "referps-settings";
 	public final static boolean JAGCACHED_ENABLED = false;
 	public final static String JAGCACHED_HOST = "";
 	public final static int SERVER_PORT = 9421;
 	public final static boolean DISPLAY_GAMEWORLD_ON_LOGIN = false;
 	public final static int NPC_BITS = 18;
 	public static final boolean SEND_HASH = true;
-	public static final int[] REPACK_INDICIES = {//4
+	public static final int[] REPACK_INDICIES = {4
 	};
 	public static final int statMenuColor = 0x49bfff;
 	public static final boolean CTRL_HOVER_HINT = true;
@@ -44,8 +44,8 @@ public class Configuration {
 	public static boolean GROUND_TEXT = true;
 	public static boolean HIGH_DETAIL = true;
 	public static boolean hdTexturing = true;
-	public static boolean hdMinimap = false;
-	public static boolean hdShading = false;
+	public static boolean hdMinimap = true;
+	public static boolean hdShading = true;
 	public static boolean TOGGLE_ROOF_OFF = true;
 	public static boolean TOGGLE_FOV = true;
 

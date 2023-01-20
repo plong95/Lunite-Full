@@ -121,14 +121,8 @@ private constructor(
                 NORTH_WEST -> return arrayOf(NORTH, WEST)
                 SOUTH_EAST -> return arrayOf(SOUTH, EAST)
                 SOUTH_WEST -> return arrayOf(SOUTH, WEST)
-                NORTH -> TODO()
-                EAST -> TODO()
-                SOUTH -> TODO()
-                WEST -> TODO()
-                NONE -> TODO()
+                else -> throw IllegalArgumentException("Must provide a diagonal direction.")
             }
-
-            throw IllegalArgumentException("Must provide a diagonal direction.")
         }
 
         var DIRECTIONS = values()

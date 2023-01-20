@@ -74,8 +74,6 @@ public class Load {
             }
             if (reader.has("high-detail")) {
                 if (!reader.get("high-detail").getAsBoolean()) {
-                    Client.setLowDetail();
-                } else {
                     Client.setHighDetail();
                 }
             }

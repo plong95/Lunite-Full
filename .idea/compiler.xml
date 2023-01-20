@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <option name="DEFAULT_COMPILER" value="error-prone" />
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
@@ -16,8 +15,8 @@
     <bytecodeTargetLevel>
       <module name="azura" target="17" />
       <module name="Azura-Client" target="1.8" />
-      <module name="azura-runelite" target="11" />
-      <module name="azura-server" target="17" />
+      <module name="azura-runelite" target="1.8" />
+      <module name="azura-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

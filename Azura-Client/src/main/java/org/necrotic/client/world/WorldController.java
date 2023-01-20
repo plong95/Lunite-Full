@@ -67,7 +67,7 @@ public final class WorldController {
 		41, 41, 41, 41, 41, 41, 41, 41, 41, 43086, 41, 41, 41, 41, 41, 41,
 		41, 8602, 41, 28992, 41, 41, 41, 41, 41, 5056, 41, 41, 41, 7079,
 		41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 3131, 41, 41, 41 };
-	public static boolean lowDetail = true;
+	public static boolean lowDetail = false;
 	static {
 		anInt472 = 4;
 		anIntArray473 = new int[anInt472];

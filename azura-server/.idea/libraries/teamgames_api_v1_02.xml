@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="teamgames-api-v1.02">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/teamgames-api-v1.02.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

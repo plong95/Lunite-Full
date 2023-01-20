@@ -3,3 +3,43 @@
 [12/18/22 08:00AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
 [12/18/22 08:29AM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
 [12/18/22 09:28AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/20/22 01:05PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/20/22 01:27PM] HOME_BANK|2649,4019,0|Said: Who gave u runelite :o	
+[12/20/22 01:28PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/20/22 01:28PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/20/22 01:29PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/20/22 01:30PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/20/22 01:31PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/20/22 01:33PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/20/22 01:34PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/20/22 01:36PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/20/22 01:36PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/20/22 01:45PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/20/22 02:10PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/20/22 02:11PM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/20/22 02:24PM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/21/22 06:16AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/21/22 06:21AM] Attempted to redeem a Donator Rank Ticket, but was a staff member! (Unsuccessful)	
+[12/21/22 06:21AM] Attempted to redeem a Donator Rank Ticket, but was a staff member! (Unsuccessful)	
+[12/21/22 06:21AM] Attempted to redeem a Donator Rank Ticket, but was a staff member! (Unsuccessful)	
+[12/21/22 06:21AM] Attempted to redeem a Donator Rank Ticket, but was a staff member! (Unsuccessful)	
+[12/21/22 06:21AM] Player destroying item: -1, amount: 0	
+[12/21/22 06:21AM] Player destroying item: -1, amount: 0	
+[12/21/22 06:22AM] Player destroying item: -1, amount: 0	
+[12/21/22 06:22AM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/21/22 06:22AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/21/22 06:26AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/21/22 06:26AM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/21/22 10:10AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/21/22 10:14AM] Has just redeemed a $50 Bond successfully!	
+[12/21/22 10:15AM] Has just redeemed a $25 Bond successfully!	
+[12/21/22 10:15AM] Has just redeemed a $50 Bond successfully!	
+[12/21/22 10:17AM] Has just redeemed a $25 Bond successfully!	
+[12/21/22 10:17AM] Has just redeemed a $50 Bond successfully!	
+[12/21/22 10:17AM] Has just redeemed a $10 Bond successfully!	
+[12/21/22 10:17AM] Has just redeemed a $1 Scroll successfully!	
+[12/21/22 10:24AM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/26/22 01:08AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/26/22 01:12AM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/26/22 01:12AM] Login. ip: 127.0.0.1, mac: null000, uuid: null000	
+[12/26/22 01:13AM] Logout. ip: 127.0.0.1, mac: null000, uuid: null000	

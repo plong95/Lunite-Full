@@ -1,5 +1,5 @@
 @echo Off
 title Running Refer-PS
 CLS
-"C:\Users\smoke\.jdks\corretto-11.0.17\bin\java.exe" -jar -verbose azura-runelite.jar
+"C:\Program Files\Java\jdk-11.0.16.1\bin\java.exe" -jar azura-runelite.jar
 pause

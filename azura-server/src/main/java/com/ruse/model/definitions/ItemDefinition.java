@@ -343,6 +343,54 @@ public class ItemDefinition {
         return -1;
     }
 
+    public static void setDefinitions(ItemDefinition[] definitions) {
+        ItemDefinition.definitions = definitions;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public void setStackable(boolean stackable) {
+        this.stackable = stackable;
+    }
+
+    public void setValue(int value) {
+        this.value = value;
+    }
+
+    public void setNoted(boolean noted) {
+        this.noted = noted;
+    }
+
+    public void setTwoHanded(boolean twoHanded) {
+        isTwoHanded = twoHanded;
+    }
+
+    public void setWeapon(boolean weapon) {
+        this.weapon = weapon;
+    }
+
+    public void setEquipmentType(EquipmentType equipmentType) {
+        this.equipmentType = equipmentType;
+    }
+
+    public void setBonus(double[] bonus) {
+        this.bonus = bonus;
+    }
+
+    public void setRequirement(int[] requirement) {
+        this.requirement = requirement;
+    }
+
     /**
      * Gets the item's id.
      *

@@ -21,7 +21,7 @@ public final class ObjectManager {
 	private static final int anIntArray140[] = { 16, 32, 64, 128 };
 	private static final int anIntArray144[] = { 0, -1, 0, 1 };
 	private static final int anIntArray152[] = { 1, 2, 4, 8 };
-	public static boolean lowDetail = true;
+	public static boolean lowDetail = false;
 
 	private static int method170(int i, int j) {
 		int k = i + j * 57;

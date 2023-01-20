@@ -1055,8 +1055,6 @@ public class Client extends GameRenderer {
         });
         portOff = 0;
         if (!Configuration.HIGH_DETAIL) {
-            setLowDetail();
-        } else {
             setHighDetail();
         }
         isMembers = true;
@@ -1366,20 +1364,7 @@ public class Client extends GameRenderer {
     }
 
     public static void setLowDetail() {
-        setLowDetail(true);
-        WorldController.lowDetail = true;
-        Rasterizer.lowDetail = false;
-        ObjectManager.lowDetail = true;
-        ObjectDefinition.lowDetail = true;
-        Configuration.HIGH_DETAIL = false;
-        Configuration.hdTexturing = false;
-        Configuration.hdMinimap = false;
-        Configuration.hdShading = true;
-    }
-
-    public static void setHighDetail() {
         setLowDetail();
-/*
         WorldController.lowDetail = false;
         Rasterizer.lowDetail = false;
         ObjectManager.lowDetail = false;
@@ -1387,7 +1372,20 @@ public class Client extends GameRenderer {
         Configuration.hdTexturing = true;
         Configuration.hdMinimap = true;// k
         Configuration.hdShading = true;
-        Configuration.HIGH_DETAIL = true;*/
+        Configuration.HIGH_DETAIL = true;
+    }
+
+    public static void setHighDetail() {
+        setLowDetail();
+
+        WorldController.lowDetail = false;
+        Rasterizer.lowDetail = false;
+        ObjectManager.lowDetail = false;
+        ObjectDefinition.lowDetail = false;
+        Configuration.hdTexturing = true;
+        Configuration.hdMinimap = true;// k
+        Configuration.hdShading = true;
+        Configuration.HIGH_DETAIL = true;
     }
 
     public static void setTab(int id) {
@@ -6582,14 +6580,14 @@ public class Client extends GameRenderer {
                     Save.settings(Client.getClient());
                     updateSetting(interfaceId, !Configuration.HIGHLIGHT_USERNAME);
                     break;
-                case 26054:
-                    setLowDetail();
-                    loadRegion();
-                    pushMessage("Set to low detail.", 0, "");
-                    Save.settings(Client.getClient());
-                    updateSetting(interfaceId, false);
-                    updateSetting(26058, false);
-                    break;
+//                case 26054:
+//                    setLowDetail();
+//                    loadRegion();
+//                    pushMessage("Set to low detail.", 0, "");
+//                    Save.settings(Client.getClient());
+//                    updateSetting(interfaceId, false);
+//                    updateSetting(26058, false);
+//                    break;
                 case 26058:
                     setHighDetail();
                     loadRegion();
